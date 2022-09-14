@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9af09591-cb23-4650-b4f2-6ac6dbab9275" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/LeepYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/HarmonicNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/HarmonicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/QuotientRemainder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,17 +29,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/AJEET/IdeaProjects/Day5_Basic_Programs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/AJEET/IdeaProjects/Day5_Basic_Programs&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.HarmonicNumber">
-    <configuration name="HarmonicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.HarmonicNumber" />
+}</component>
+  <component name="RunManager" selected="Application.QuotientRemainder">
+    <configuration name="Factroial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Factroial" />
       <module name="Day5_Basic_Programs" />
       <extension name="coverage">
         <pattern>
@@ -51,8 +51,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.bridgelabz.Factroial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Factroial" />
+    <configuration name="QuotientRemainder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.QuotientRemainder" />
       <module name="Day5_Basic_Programs" />
       <extension name="coverage">
         <pattern>
@@ -66,7 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HarmonicNumber" />
+        <item itemvalue="Application.QuotientRemainder" />
         <item itemvalue="Application.com.bridgelabz.Factroial" />
       </list>
     </recent_temporary>

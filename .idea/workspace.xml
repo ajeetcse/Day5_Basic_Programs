@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9af09591-cb23-4650-b4f2-6ac6dbab9275" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/LargestNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/SwapNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/VowelConstant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/HarmonicNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/QuotientRemainder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day5_Basic_Programs/com/bridgelabz/QuotientRemainder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/QuotientRemainder.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +42,22 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/AJEET/IdeaProjects/Day5_Basic_Programs&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.QuotientRemainder">
-    <configuration name="Factroial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Factroial" />
+  <component name="RunManager" selected="Application.LargestNum">
+    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.EvenOdd" />
+      <module name="Day5_Basic_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.LargestNum" />
       <module name="Day5_Basic_Programs" />
       <extension name="coverage">
         <pattern>
@@ -64,10 +82,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwapNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.SwapNum" />
+      <module name="Day5_Basic_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VowelConstant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.VowelConstant" />
+      <module name="Day5_Basic_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LargestNum" />
+        <item itemvalue="Application.VowelConstant" />
+        <item itemvalue="Application.EvenOdd" />
+        <item itemvalue="Application.SwapNum" />
         <item itemvalue="Application.QuotientRemainder" />
-        <item itemvalue="Application.com.bridgelabz.Factroial" />
       </list>
     </recent_temporary>
   </component>
